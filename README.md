@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RifatRudro?tab=repositories](https://github.com/RifatRudro?tab=repositories)
 
-- 💬 Ask me about **DATA SCIENCE, SOFTWARE DEVELOPMENT, PYTHON , PHP**
+- 💬 Ask me about **Data Science,Software Development,Programming Language(C++/Java/C#/Python),Web Development(PhP,JavaScript,AJAX,JQueryHTML,CSS)**
 
 - 📫 How to reach me **rifat.rudro138964@gmail.com**
 
@@ -26,5 +26,5 @@
 <a href="https://www.instagram.com/rifatrudro007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rifat Rudro" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisunaurnob&show_icons=true&locale=en&layout=compact" alt="jisunaurnob" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisunaurnob&show_icons=true&locale=en&layout=compact" alt="Rifat Rudro" /></p>
 
