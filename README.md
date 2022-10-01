@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rifat Rudro</h1>
 <h3 align="center">Passionate in advancing my career as a Software Engineer in a competitive and fast-paced workplace.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifatrudrob&label=Profile%20views&color=0e75b6&style=flat" alt="rifatrudro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifatrudrob&label=Profile%20views&color=0e75b6&style=flat" alt="rifatrudro"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifatrudro" alt="rifatrudro" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifatrudro" alt="rifatrudro"/></a> </p>
 
 - 🔭 I’m currently working on [Machine learning Algorithm Approach for Data Science ](https://github.com/RifatRudro/Machine-Learning-)
 
