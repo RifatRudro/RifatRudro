@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifatrudrob&label=Profile%20views&color=0e75b6&style=flat" alt="rifatrudro" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifatrudro" alt="rifatrudro" /></a> </p>
+
 - 🔭 I’m currently working on [Machine learning Algorithm Approach for Data Science ](https://github.com/RifatRudro/Machine-Learning-)
 
 - 🌱 I’m currently learning **Data Science Project**
