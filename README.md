@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="rifatrudro" alt="rifatrudro"></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="" alt="rifatrudro"></a> </p>
 
 - 🔭 I’m currently working on [Machine learning Algorithm Approach for Data Science ](https://github.com/RifatRudro/Machine-Learning-)
 
