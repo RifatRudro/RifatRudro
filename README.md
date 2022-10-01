@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Machine learning Algorithm Approach for Data Science ](https://github.com/RifatRudro/Machine-Learning-)
 
-- 🌱 I’m currently learning **Data Science Project**
+- 🌱 I’m currently learning **Data Science & Image Processing**
 
-- 👯 I’m looking to collaborate on [ask & learn](https://github.com/RifatRudro/Machine-Learning-)
+- 👯 I’m looking to collaborate on [Machine Learning ](https://github.com/RifatRudro/Machine-Learning-)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RifatRudro?tab=repositories](https://github.com/RifatRudro?tab=repositories)
 
@@ -26,5 +26,5 @@
 <a href="https://www.instagram.com/rifatrudro007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rifat Rudro" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisunaurnob&show_icons=true&locale=en&layout=compact" alt="Rifat Rudro" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifatrudro&show_icons=true&locale=en&layout=compact" alt="rifatrudro" /></p>
 
