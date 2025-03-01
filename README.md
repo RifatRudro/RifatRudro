@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Data Science,Software Development,Programming Language(C++/Java/C#/Python),Web Development(PhP,JavaScript,AJAX,JQueryHTML,CSS)**
 
-- 📫 How to reach me **rifat.rudro138964@gmail.com**
+- 📫 How to reach me **mamun.rudro@aiub.edu**
 
 - ⚡ Fun fact **I just believe in eating, coding, traveling & sleeping**
 
